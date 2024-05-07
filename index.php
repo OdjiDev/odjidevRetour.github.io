@@ -23,8 +23,6 @@
                 <th>Supprimer</th>
             </tr>
 
-le 1er commit
-
 
 
 
@@ -37,6 +35,8 @@ le 1er commit
 
 
 
+le 1er commit echouer avec erreur
+voici le test du dexieme
 
                 //inclure la page de connexion
                 include_once "connexion.php";
